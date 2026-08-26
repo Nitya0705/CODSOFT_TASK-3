@@ -1,4 +1,4 @@
-# CODSOFT_TASK3 — Customer Churn Prediction 📉
+# CODSOFT_TASK3 — Customer Churn Prediction 
 
 This repository contains my solution for **Task 3: Customer Churn Prediction**,
 completed as part of my Machine Learning Internship at **CodSoft**.
